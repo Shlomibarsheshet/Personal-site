@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  font-weight: bold;
+  font-size: 18px;
+
+}
+
+div {
+  margin: 0;
+}
+p {
+  line-height: 2;
+}
+h1 {
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin: 50px auto 0 auto;
+  padding-bottom: 10px;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  margin: 50px auto 0 auto;
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 7px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+  }
+
+a:hover {
+  color: #EAF6F6
+}
+
+.Web {
+  font-weight: bold;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 100px
+}
+
+
+.middle-container {
+  margin: 50px  50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.Hello-description {
+  width: 300px;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.web-design {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.online-shop {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.contact-description {
+  width: 40%;
+  margin: 50px auto;
+}
+
+.btn {
+  background-color:#66BFBF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.footer-link {
+  padding: 25px;
+  text-decoration: none;
+
+}
+.copy-rights {
+  color: white;
+  font-size: 12px;
+}
